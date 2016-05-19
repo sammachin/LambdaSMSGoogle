@@ -1,0 +1,14 @@
+Metadata-Version: 2.0
+Name: nexmo
+Version: 1.0.2
+Summary: Python client for the Nexmo API
+Home-page: http://github.com/timcraft/python-nexmo
+Author: Tim Craft
+Author-email: mail@timcraft.com
+License: LGPL-3.0
+Platform: any
+Requires-Dist: requests
+
+Python client for the Nexmo API
+
+
